@@ -1,0 +1,15 @@
+Pandas
+matplotlib
+seaborn
+scikit-learn
+numpy
+jupyterlab
+statsmodels
+scipy
+xgboost
+lightgbm
+catboost
+tensorflow
+keras
+torch
+
