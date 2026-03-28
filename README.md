@@ -108,7 +108,7 @@ This project demonstrates:
 - Clinically meaningful insights  
 - A foundation for real-world decision support tools  
 
-This work can support:
+Hence supporting:
 
 - Quality improvement teams  
 - State-level oversight  
